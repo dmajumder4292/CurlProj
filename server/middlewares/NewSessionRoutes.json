@@ -1,0 +1,12 @@
+{
+    "GET":{
+      "/v1/user/login":{
+        "event_type": "LOGIN"
+      }
+    },
+    "POST": {
+      "/v1/user/register":{
+        "event_type": "REGISTER"
+      }
+    }
+}
